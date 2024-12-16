@@ -14,7 +14,7 @@
   <h3 align="left">Connect with me!</h3>
   
   [![E-mail](https://img.shields.io/badge/-Email-f2bc6b?style=for-the-badge&logo=gmail&logoColor=171512&color:FFF)](mailto:vanessa.trezenap@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f2bc6b?style=for-the-badge&logo=linkedin&logoColor=171512&color:FFF)](https://www.linkedin.com/in/vanessa-trezena-a77454339/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f2bc6b?style=for-the-badge&logo=linkedin&logoColor=171512&color:FFF)](https://www.linkedin.com/in/vanessa-trezena/)
   [![Instagram](https://img.shields.io/badge/-Instagram-f2bc6b?style=for-the-badge&logo=instagram&logoColor=171512&color:FFF)](https://www.instagram.com/vanetrz/)
 
   
