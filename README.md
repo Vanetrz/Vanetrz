@@ -9,7 +9,7 @@
 
 <div align="left" style="justify-content: center;">
 
-  <img src="https://github.com/user-attachments/assets/aa44f738-4701-47d9-9bff-742deec92574" align="right" height="190px"/>
+  <img src="https://github.com/user-attachments/assets/aa44f738-4701-47d9-9bff-742deec92574" align="right" height="185px"/>
   
   <h3 align="left">Connect with me!</h3>
   
