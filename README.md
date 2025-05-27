@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2bc6b&size=22&Left=true&vLeft=true&width=800&lines=Hi,+I'm+Vanessa+Trezena+.ᐟ)](https://git.io/typing-svg)
 
-- Born in 2007
-- Co-founder of a developing startup in the education sector
+- Studying Systems Analysis and Development
+- Interest in programming and UI/UX design
+- Co-founder of a developing startup in the education sector, Núria
 - Complete technical secondary education in IT
 - Languages: Fluent Portuguese / Intermediate English
 
