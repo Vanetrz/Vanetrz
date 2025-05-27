@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2bc6b&size=22&Left=true&vLeft=true&width=800&lines=Hi,+I'm+Vanessa+Trezena+.ᐟ)](https://git.io/typing-svg)
 
-- Studying Systems Analysis and Development
-- Interest in programming and UI/UX design
 - Co-founder of a developing startup in the education sector, Núria
-- Complete technical secondary education in IT
+- Interest in programming and UI/UX design
+- I want to reach Full-stack
 - Languages: Fluent Portuguese / Intermediate English
 
 #
@@ -14,16 +13,17 @@
   
   <h3 align="left">Connect with me!</h3>
   
-  [![E-mail](https://img.shields.io/badge/-Email-f2bc6b?style=for-the-badge&logo=gmail&logoColor=171512&color:FFF)](mailto:vanessa.trezenap@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f2bc6b?style=for-the-badge&logo=linkedin&logoColor=171512&color:FFF)](https://www.linkedin.com/in/vanessa-trezena/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-f2bc6b?style=for-the-badge&logo=instagram&logoColor=171512&color:FFF)](https://www.instagram.com/vanetrz/)
+  [![E-mail](https://img.shields.io/badge/-Email-f2bc6b?style=for-the-badge&logo=gmail&logoColor=171512)](mailto:vanessa.trezenap@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f2bc6b?style=for-the-badge&logo=linkedin&logoColor=171512)](https://www.linkedin.com/in/vanessa-trezena/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-f2bc6b?style=for-the-badge&logo=instagram&logoColor=171512)](https://www.instagram.com/vanetrz/)
 
   
   <h3 align="left">Technologies ~</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="28px" alt="HTML" style="padding-right: 15px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="28px" alt="CSS" style="padding-right: 15px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28px" alt="JavaScript" style="padding-right: 15px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="28px" alt="Figma" style="padding-right: 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" alt="Python" style="padding-right: 15px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="28px" alt="Figma"/>
 </div>
 
 #
